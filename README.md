@@ -1,11 +1,9 @@
-## This page is: [qisk.it/think2020](http://qisk.it/think2020)
-## Resources for Think 2020 Qiskit Master Class:
+## This page is: [qisk.it/gids](http://qisk.it/gids)
+## Resources for GIDS Architecture Quantum Computing Workshop:
 
-#### Title: [Learn about IBM Quantum’s Scalable Quantum Hardware and Software, and Build Your First Quantum Game!](https://events.tools.ibm.com/widget/ibm/think20/catalog?search=2914) 
+#### Title: [Quantum Computing Workshop for Classical Developers](https://wurreka.com/ict/virtual-conference/architecture/session/quantum-computing-workshop-for-classical-developers) 
 
-#### Presenters: [Anamita Guha](https://twitter.com/anamitag) and [James Weaver](https://twitter.com/javafxpert)
-
-- Anamita Guha's presentation slides
+#### Presenter: [James Weaver](https://twitter.com/javafxpert)
 
 - [James Weaver's presentations slides](https://slides.com/javafxpert/qiskitblocks)
   - QiskitBlocks game site [qisk.it/blocks](https://github.com/JavaFXpert/QiskitBlocks)
