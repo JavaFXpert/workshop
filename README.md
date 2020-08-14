@@ -16,7 +16,7 @@
 
 1. Optional but recommended if you're new to Qiskit:
   - Take the [Create your first quantum circuit](https://quantum-computing.ibm.com/docs/start-iqx/drag-drop/first-circ) tutorial (great primer on using Circuit Composer).
-  - Take the [Code your first quantum circuit](https://quantum-computing.ibm.com/docs/start-iqx/code/first-circ) tutorial  (great primer on using Qiskit Notebooks).
+  - Take the [Code your first quantum circuit](https://quantum-computing.ibm.com/docs/iql/first-circuit) tutorial  (great primer on using Qiskit Notebooks).
 2. In the IBM Quantum Experience Circuit Composer, create a three-wire circuit whose measurements are randomly distributed among 000 - 111.
    - View the **Statevector** and **Measurement Probabilities** from the **Visualizations** tab (bar graph image) on the left side of the page.
    - Observe the results when running your circuit on a backend quantum system or simulator. The shortest queues are typically with the 32 qubit simulator `ibmq_qasm_simulator in ibm-q/open/main`
